@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kzalanl
+- 👀 I’m interested in robotics and automation.
+- 🌱 I’m currently learning mechatronics engineering.
+- 📫 You can reach me at kiszli.zalan@gmail.com
