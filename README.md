@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kzalanl
-- 👀 I’m interested in robotics and automation.
-- 🌱 I’m currently learning mechatronics engineering.
+- 👀 I’m interested in robotics and automation. Currently studying informatics and computation.
+- 🌱 I’m currently working as an intern at Alphacruncher, and I contribute to Nuvolos.
 - 📫 You can reach me at kiszli.zalan@gmail.com
